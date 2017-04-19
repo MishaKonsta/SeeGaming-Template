@@ -1,3 +1,20 @@
+This is a free open-source website script/template for gaming servers. With server info & statistic (monitoring) on your website.
+
+Supported games:
+- San Andreas Multiplayer
+- Multi Theft Auto
+- Rust
+- Unturned
+- Dayz
+- Minecraft (and Pocket Edition)
+- Counter Strike 1.6 / Source/ Global Offensive
+- ARK: Survival Evolved
+- Arma III
+- Garry's Mod
+
+
+How to install:
+
 1. Extract files from archive to your website/hosting path
 
 2. Open config.php and Configure your website settings
