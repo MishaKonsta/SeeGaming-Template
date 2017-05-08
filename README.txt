@@ -11,6 +11,9 @@ Supported games:
 - ARK: Survival Evolved
 - Arma III
 - Garry's Mod
+- Left4Dead 2
+- 7DaysToDie
+- TF2
 
 
 How to install:
